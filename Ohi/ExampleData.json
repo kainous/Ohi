@@ -1,0 +1,34 @@
+{
+  "Categories": {
+    "A": {
+      "Name": "Axioms"
+    },
+    "P": {
+      "Name": "Primitive Notions",
+      "Definition": "A primitive notion is a concept that is defined according to intuition, whereas the notion cannot be formally defined according to other definitions.",
+    },
+    "N": {
+      "Name": "Notation System"
+    },
+    "H": {
+      "Name": "Phenomena"
+    }, {
+      "qOBPc37YRzix4tgyNQK3Ng==": {
+        "Type": "P",
+        "Name": "Statement"
+      },
+      "kuor921GSjC1QoVJqKOAsQ==": {
+        "Type": "P",
+        "Name": "Tautology",
+        "Symbols": {
+          "NotationSystem1": "\top"
+        },
+        "Definition": "A tautology is a relationship between two statements that indicate that they say the same thing"
+      },
+      {
+        "Type": "H",
+        "AF"
+      }
+    }
+  },
+}
